@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Servicios-GIS{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    margin-bottom: 20px;
+}
+.class{
+    margin-top: 30px;
+}
+
+.class>.text>h1{
+    text-align: center;
+    color: white;
+}
+
+.contenido{
+    display: flex;
+    margin: auto;
+    width: 90%;
+    gap: 8px;
+}
+
+.resumen{
+    width: 50%;
+    text-align: justify;
+}
+  
+    .slider2{
+      width:50%;
+      margin:2px auto;
+      overflow: hidden;
+  }
+  .slider2 ul{
+     display: flex;
+     align-items: center;
+     width: 400%;
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     /*cambio se le da un nombre al cambio duracion y como se repetira*/
+     animation: cambio 15s infinite;
+     /*para direccionar la animacion del elemento al primer elemento*/
+     animation-direction:alternate;
+     /*curva de trancision de cada imagen*/
+     animation-timing-function:ease-in;
+  }
+  
+  .slider2 li{list-style: none;
+             width: 100%;
+             height: 300px;}
+  
+  .slider2 ul img{width: 100%;
+                 height: 100%;
+                 object-fit: fill;} 
+  /*paradas al elemento creado*/
+  @keyframes cambio{
+      /*se trabajara con porcentajes y se definira lo siguiente*/
+      /*la primera imagen de los 20s totales estara 4 segundos en la primera imagen*/
+      0% {margin-left: 0;}
+      20%{margin-left: 0;}
+      /*la segunda imagen se desplazara de 5 a 9 segundo de duracion*/
+      25%{margin-left: -100%;}
+      45%{margin-left: -100%;}
+      /*La tercera imagene desplaara de 10 a 14 segundos de laxduracion*/
+      50%{margin-left: -200%;}
+      70%{margin-left: -200%;}
+  
+      75%{margin-left: -300%;}
+      100%{margin-left: -300%;}} 
+
+  @media screen and (max-width:768px){
+
+    .class{
+        margin-top: 20px;
+    }
+
+    .class>.text>h1{
+        text-align: center;
+        color: white;
+        font-size: 15px;
+    }
+
+    .contenido{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 8px;
+    }
+
+    .resumen{
+        width: 100%;
+        text-align: justify;
+    }
+
+    .slider2{
+        width:100%;
+        margin:2px auto;
+        overflow: hidden;
+    }
+
+    .slider2 li{list-style: none;
+        width: 100%;
+        height: 200px;}
+
+    .slider2 ul img{width: 100%;
+                    height: 100%;
+                    object-fit: fill;} 
+
+
+
+  }

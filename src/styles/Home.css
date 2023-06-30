@@ -1,0 +1,83 @@
+
+.Home{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0,0.7);
+    
+}
+
+.redes{display: flex;
+       justify-content: center;
+       gap:25px;
+       font-size: 45px;
+       }
+.redes>.enlaces:nth-of-type(1){
+    color:rgb(255, 255, 255);
+}
+
+.redes>.enlaces:nth-of-type(1):hover{
+    color:yellow;
+}
+.redes>.enlaces:nth-of-type(2){
+    color:rgb(255, 255, 255);
+}
+.redes>.enlaces:nth-of-type(2):hover{
+    color:yellow;
+}
+.redes>.enlaces:nth-of-type(3){
+    color:rgb(255, 255, 255);
+}
+.redes>.enlaces:nth-of-type(3):hover{
+    color:yellow;
+}
+.redes>.enlaces:nth-of-type(4){
+    color:rgb(255, 255, 255);
+}
+
+.redes>.enlaces:nth-of-type(4):hover{
+    color:yellow;
+}
+
+.imagen{display: flex;
+        justify-content: center;}
+.imagen>img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: fill;
+}
+
+.TitleGIS>h1{
+    text-align: center;
+    font-weight: bold;
+    color:rgb(224, 223, 223);
+    text-shadow: 0 0 6px yellow;
+}
+
+
+@media screen and (max-width:768px){
+.imagen{display: flex;
+        justify-content: center;}
+.imagen>img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.redes{display: flex;
+    justify-content: center;
+    gap:25px;
+    font-size: 20px;
+    }
+
+.titulo{
+    margin-top: 10px;
+}
+
+.titulo>h2{
+    text-align: center;
+    text-shadow:0 0 6px yellow;
+    color:white;
+}
+
+}

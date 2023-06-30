@@ -1,0 +1,70 @@
+.GIS{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+ 
+}
+
+.GIS>h3{
+    color: white;
+    text-align: center;
+}
+
+.GIS>.imagenes{
+    display: flex;
+    gap:15px;
+    justify-content: center;
+}
+
+.imagenes>img{
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+}
+.GIS>img{
+    width: 400px;
+    height: 200px;
+    display: block;
+    margin: 15px auto;
+    object-fit: fill;
+}
+
+.GIS>p{
+    color: white;
+    width: 800px;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.GIS>span{
+    display: block;
+    margin: auto;
+}
+
+.GIS>span>a{
+    text-decoration: none;
+    color:blue;
+    font-size: 20px;
+}
+
+.GIS>span>a:hover{
+  color: aqua;
+}
+
+@media screen and (max-width:768px){
+    .GIS>img{
+        width: 100%;
+        height: 300px;
+        display: block;
+        margin: 15px auto;
+    }
+
+    .GIS>p{
+        color: rgb(214, 225, 8);
+        width:100%;
+        display: block;
+        margin: 10px auto;
+        text-align: justify;
+    }
+}
