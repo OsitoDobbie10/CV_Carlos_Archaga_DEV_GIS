@@ -14,6 +14,7 @@ import React from "../files/React-JS-Mapas.png";
 import LogoReact from "../files/descargaReact.png"
 import TIENDA from '../files/TIENDA.png';
 import LASTIMAGE from '../files/APP-COPECO.png';
+import reactAPP2 from '../files/REACT-APP2.png';
 
 const Portafolio = [ 
 {
@@ -123,6 +124,18 @@ const Portafolio = [
         {img:Experience}],
     descp:"Reporte de incidentes por afectaciones de riesgos en infraestructura crítica a nivel nacional, con tecnologia ESRI",
     enlace:"https://experience.arcgis.com/experience/8bfbfa5b2e084b7a9e5d7deb5481ac16/page/Incio/"
+},
+{
+    id:9,
+    proyectoweb:"Proyectos GIS Carlos Archaga",
+    title:"Afectaciones en Infraestructura Crítica",
+    categoria:"Developer GIS React JS",
+    imagen:reactAPP2,
+    tecnologias:[
+        {img:LogoReact},
+        {img:'https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png'}],
+    descp:"Aplicacion de registro de presupuesto con REACT JS UseState,Useeffect, UseReducer, UserRef, UseContext y CustomHooks",
+    enlace:"https://main--gregarious-croquembouche-8e92e9.netlify.app/"
 }
 ];
 
