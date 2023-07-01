@@ -13,6 +13,7 @@ import Galeria from "../files/GaleriaWEBGIS.png";
 import React from "../files/React-JS-Mapas.png";
 import LogoReact from "../files/descargaReact.png"
 import TIENDA from '../files/TIENDA.png';
+import LASTIMAGE from '../files/APP-COPECO.png';
 
 const Portafolio = [ 
 {
@@ -110,6 +111,18 @@ const Portafolio = [
     ],
     descp:"Tienda virtual con REACT JS proyecto demo, usando dependencias, conexion a una api rest, estados y envio de datos",
     enlace:"https://ositodobbie10.github.io/Nico-Store-demo/"
+},
+{
+    id:8,
+    proyectoweb:"Proyectos GIS Carlos Archaga",
+    title:"Afectaciones en Infraestructura Crítica",
+    categoria:"Developer GIS React JS",
+    imagen:LASTIMAGE,
+    tecnologias:[
+        {img:ESRI},
+        {img:Experience}],
+    descp:"Reporte de incidentes por afectaciones de riesgos en infraestructura crítica a nivel nacional, con tecnologia ESRI",
+    enlace:"https://experience.arcgis.com/experience/8bfbfa5b2e084b7a9e5d7deb5481ac16/page/Incio/"
 }
 ];
 
