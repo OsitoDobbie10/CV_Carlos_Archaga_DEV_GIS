@@ -128,7 +128,7 @@ const Portafolio = [
 {
     id:9,
     proyectoweb:"Proyectos GIS Carlos Archaga",
-    title:"Afectaciones en Infraestructura Crítica",
+    title:"Aplicacion de registro de presupuesto con REACT JS",
     categoria:"Developer GIS React JS",
     imagen:reactAPP2,
     tecnologias:[
