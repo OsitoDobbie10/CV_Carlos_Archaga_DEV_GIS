@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.aff03738.css",
-    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.655c2b73.js",
+    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.10cd8ae6.js",
     "static/media/Mapa_Basico.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Basico.0d54e00fd7d1f331a6cd.png",
     "static/media/Tierra-inicio.mp4": "/CV_Carlos_Archaga_DEV_GIS/static/media/Tierra-inicio.c6043d6c61ec245407f5.mp4",
     "static/media/Maoa_cambio_uso_suelo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Maoa_cambio_uso_suelo.4c5f87d131ff1d9a9ef0.png",
@@ -25,6 +25,7 @@
     "static/media/GIS-1.webp": "/CV_Carlos_Archaga_DEV_GIS/static/media/GIS-1.51702b8cc21e54879879.webp",
     "static/media/ROMA_IN_3.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/ROMA_IN_3.9281b2d5a6fe20c664a0.jpg",
     "static/media/Arcgis_Redes.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Arcgis_Redes.a7abb51f2219c1749b1f.png",
+    "static/media/APP-COPECO.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/APP-COPECO.199a06634e49db6b3f06.png",
     "static/media/GEODATABASE.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/GEODATABASE.8de588939ecde3b21417.jpg",
     "static/media/Python2.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Python2.ecfb4e6faf26def45e95.png",
     "static/media/Geoturismo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Geoturismo.938c17f24e6d4362b6a0.png",
@@ -41,10 +42,10 @@
     "static/media/docker.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/docker.e0ba9d2386737b9f87c6.png",
     "index.html": "/CV_Carlos_Archaga_DEV_GIS/index.html",
     "main.aff03738.css.map": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.aff03738.css.map",
-    "main.655c2b73.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.655c2b73.js.map"
+    "main.10cd8ae6.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.10cd8ae6.js.map"
   },
   "entrypoints": [
     "static/css/main.aff03738.css",
-    "static/js/main.655c2b73.js"
+    "static/js/main.10cd8ae6.js"
   ]
 }
