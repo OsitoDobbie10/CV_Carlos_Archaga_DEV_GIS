@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.aff03738.css",
-    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.1cf8f9f9.js",
+    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.aa298363.js",
     "static/media/Mapa_Basico.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Basico.0d54e00fd7d1f331a6cd.png",
     "static/media/Tierra-inicio.mp4": "/CV_Carlos_Archaga_DEV_GIS/static/media/Tierra-inicio.c6043d6c61ec245407f5.mp4",
     "static/media/Maoa_cambio_uso_suelo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Maoa_cambio_uso_suelo.4c5f87d131ff1d9a9ef0.png",
@@ -12,6 +12,7 @@
     "static/media/Mapa_Areas_verdes.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Areas_verdes.fea5c7bc3febdcafcdad.PNG",
     "static/media/PP_2014.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/PP_2014.a77468b2e281fd42b2e7.png",
     "static/media/DEMIWEB.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/DEMIWEB.76a6dac5211345922d68.png",
+    "static/media/ExperienciaGIS.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/ExperienciaGIS.acb58cee9fa34aa56718.png",
     "static/media/TIENDA.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/TIENDA.899f661898c7c902ddd7.png",
     "static/media/Mi_FOTO_PAPU.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mi_FOTO_PAPU.37e835e2acbf0036516a.png",
     "static/media/React-JS-Mapas.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/React-JS-Mapas.75546e127efe64cd7cfa.png",
@@ -43,10 +44,10 @@
     "static/media/docker.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/docker.e0ba9d2386737b9f87c6.png",
     "index.html": "/CV_Carlos_Archaga_DEV_GIS/index.html",
     "main.aff03738.css.map": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.aff03738.css.map",
-    "main.1cf8f9f9.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.1cf8f9f9.js.map"
+    "main.aa298363.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.aa298363.js.map"
   },
   "entrypoints": [
     "static/css/main.aff03738.css",
-    "static/js/main.1cf8f9f9.js"
+    "static/js/main.aa298363.js"
   ]
 }
