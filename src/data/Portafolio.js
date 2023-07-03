@@ -15,6 +15,7 @@ import LogoReact from "../files/descargaReact.png"
 import TIENDA from '../files/TIENDA.png';
 import LASTIMAGE from '../files/APP-COPECO.png';
 import reactAPP2 from '../files/REACT-APP2.png';
+import ExperienciaGIS from '../files/ExperienciaGIS.png';
 
 const Portafolio = [ 
 {
@@ -136,6 +137,18 @@ const Portafolio = [
         {img:'https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png'}],
     descp:"Aplicacion de registro de presupuesto con REACT JS UseState,Useeffect, UseReducer, UserRef, UseContext y CustomHooks",
     enlace:"https://main--gregarious-croquembouche-8e92e9.netlify.app/"
+},
+{
+    id:10,
+    proyectoweb:"Proyectos GIS Carlos Archaga",
+    title:"Experiencia para INE mapas de proyeccion de poblacion",
+    categoria:"Developer GIS React JS",
+    imagen:ExperienciaGIS,
+    tecnologias:[
+        {img:ESRI},
+        {img:Experience}],
+    descp:"Vista de mapas que contiene datos de poblacion por departamento del 2015 a 2023 con Experience Builder y ArcGIS PRO.",
+    enlace:"https://experience.arcgis.com/experience/7a9a1b1b61754d4d96b5a13bb51beda3"
 }
 ];
 
