@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.aff03738.css",
-    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.aa298363.js",
+    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.d40e38e4.js",
     "static/media/Mapa_Basico.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Basico.0d54e00fd7d1f331a6cd.png",
+    "static/media/MovieYT.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/MovieYT.1daf2b6011124deb999e.png",
     "static/media/Tierra-inicio.mp4": "/CV_Carlos_Archaga_DEV_GIS/static/media/Tierra-inicio.c6043d6c61ec245407f5.mp4",
     "static/media/Maoa_cambio_uso_suelo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Maoa_cambio_uso_suelo.4c5f87d131ff1d9a9ef0.png",
     "static/media/Mapa_TICO.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_TICO.9aeed2aaabd33f6982f8.PNG",
@@ -44,10 +45,10 @@
     "static/media/docker.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/docker.e0ba9d2386737b9f87c6.png",
     "index.html": "/CV_Carlos_Archaga_DEV_GIS/index.html",
     "main.aff03738.css.map": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.aff03738.css.map",
-    "main.aa298363.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.aa298363.js.map"
+    "main.d40e38e4.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.d40e38e4.js.map"
   },
   "entrypoints": [
     "static/css/main.aff03738.css",
-    "static/js/main.aa298363.js"
+    "static/js/main.d40e38e4.js"
   ]
 }
