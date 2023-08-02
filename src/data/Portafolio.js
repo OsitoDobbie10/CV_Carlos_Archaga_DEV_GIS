@@ -16,6 +16,7 @@ import TIENDA from '../files/TIENDA.png';
 import LASTIMAGE from '../files/APP-COPECO.png';
 import reactAPP2 from '../files/REACT-APP2.png';
 import ExperienciaGIS from '../files/ExperienciaGIS.png';
+import Movie from '../files/MovieYT.png'
 
 const Portafolio = [ 
 {
@@ -141,14 +142,14 @@ const Portafolio = [
 {
     id:10,
     proyectoweb:"Proyectos GIS Carlos Archaga",
-    title:"Experiencia para INE mapas de proyeccion de poblacion",
+    title:"Aplicacion de busqueda y filtro de peliculas y series usando la api de YTMovies",
     categoria:"Developer GIS React JS",
-    imagen:ExperienciaGIS,
+    imagen:Movie,
     tecnologias:[
-        {img:ESRI},
-        {img:Experience}],
-    descp:"Vista de mapas que contiene datos de poblacion por departamento del 2015 a 2023 con Experience Builder y ArcGIS PRO.",
-    enlace:"https://experience.arcgis.com/experience/7a9a1b1b61754d4d96b5a13bb51beda3"
+        {img:LogoReact},
+        {img:'https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png'}],
+    descp:"Aplicacion de filtro, busqueda de peliculas y series por genero por nombre y actores usando la API de YT movie api con mas de 300 mil datos, usando tailwind css como estilos y Vite con React",
+    enlace:"https://superb-sunburst-bdc8cf.netlify.app/"
 }
 ];
 
