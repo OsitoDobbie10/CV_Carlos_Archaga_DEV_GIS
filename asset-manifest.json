@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.aff03738.css",
-    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.d40e38e4.js",
+    "main.css": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.38ca450e.css",
+    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.9df574dc.js",
     "static/media/Mapa_Basico.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Basico.0d54e00fd7d1f331a6cd.png",
     "static/media/MovieYT.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/MovieYT.1daf2b6011124deb999e.png",
     "static/media/Tierra-inicio.mp4": "/CV_Carlos_Archaga_DEV_GIS/static/media/Tierra-inicio.c6043d6c61ec245407f5.mp4",
@@ -38,17 +38,18 @@
     "static/media/HTML_logo.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/HTML_logo.89c815e1a85fe0233dc0.jpg",
     "static/media/ESRI_Logo.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/ESRI_Logo.9ea9fda7c4bdb0785b14.jpg",
     "static/media/Leaflet_Logo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Leaflet_Logo.a6c81f20241ff0628d18.png",
+    "static/media/REACTLOGO.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/REACTLOGO.17fbfdb65ddf68e3c741.png",
     "static/media/AMDC_catastro.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/AMDC_catastro.ec01c239a8930989e1b1.png",
     "static/media/Exoerience_Logo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Exoerience_Logo.8f74db307a18d8081c9c.png",
     "static/media/Dashboard_Logo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Dashboard_Logo.722143bd3ab94220fdd4.png",
     "static/media/CSS_Logo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/CSS_Logo.cc329bcb6af0353fd83c.png",
     "static/media/docker.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/docker.e0ba9d2386737b9f87c6.png",
     "index.html": "/CV_Carlos_Archaga_DEV_GIS/index.html",
-    "main.aff03738.css.map": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.aff03738.css.map",
-    "main.d40e38e4.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.d40e38e4.js.map"
+    "main.38ca450e.css.map": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.38ca450e.css.map",
+    "main.9df574dc.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.9df574dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.aff03738.css",
-    "static/js/main.d40e38e4.js"
+    "static/css/main.38ca450e.css",
+    "static/js/main.9df574dc.js"
   ]
 }
