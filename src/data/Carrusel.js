@@ -1,15 +1,18 @@
+import LOGO from '../files/REACTLOGO.png'
+import LOGOPRO from '../files/PRO.jpg';
+
 const Carrusel = [
     {id:1,
      imagen:"https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"},
 
     {id:2,
-    imagen:"https://blog.insaid.co/wp-content/uploads/2019/04/Python-logo-370x370.jpg"},
+    imagen:"https://amador.edu.do/wp-content/uploads/2020/11/rstudio.png"},
 
     {id:3,
-    imagen:"https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png"},
+    imagen:LOGO},
 
     {id:4,
-    imagen:"https://www.vhv.rs/dpng/d/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png"},
+    imagen:LOGOPRO},
 
     {id:5,
     imagen:"https://image.spreadshirtmedia.net/image-server/v1/compositions/T1459A842PA4459PT28D301918133W10000H10000/views/1,width=650,height=650,appearanceId=842/qgis-heart-logo.jpg"},

@@ -12,13 +12,13 @@ const SkillDeveloper = [
     },
     {
         id:3,
-        imagen:"https://miro.medium.com/v2/resize:fit:1400/1*oPL8C-i04sqAUoOS_da9aA.jpeg",
+        imagen:"https://d3mxt5v3yxgcsr.cloudfront.net/courses/7443/course_7443_image.jpg",
         Desc:"Framework de CSS para la creacion de estilos de elemetos HTML usando clases de css"
     },
     {
         id:4,
         imagen:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
-        Desc:"Framework de Javascript para la creacion de interfaces graficas web usando lenguaje JSX, crud, consumo de API e interaccion de eventos"
+        Desc:"Framework de Javascript para la creacion de interfaces graficas web usando lenguaje JSX y con typescript, crud, consumo de API e interaccion de eventos usando herramientas como Remix run y Next JS  "
     },
     {
         id:5,
@@ -47,8 +47,13 @@ const SkillDeveloper = [
     },
     {
         id:10,
-        imagen:'https://w7.pngwing.com/pngs/291/451/png-transparent-openlayers-vertical-logo-tech-companies-thumbnail.png',
+        imagen:'https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/OpenLayers_logo.svg/1024px-OpenLayers_logo.svg.png',
         Desc:"Manejo de la libreria de mapeo web de javascript para crear mapas y aplicaciones inmersivas con la interaccion en el navegado"
+    },
+    {
+        id:11,
+        imagen:'https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png',
+        Desc:"Manejo del gestor de base de datos MYSQL "
     }
 ];
 

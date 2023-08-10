@@ -31,7 +31,7 @@ const PortafolioGIS = () => {
         className='App-logo'/>
         </div>
         <h2 style={{textAlign:"center",color:"white"}}>Filtrado de proyectos web GIS.</h2>
-        <input type="text" value={filtrar} onChange={find}/>
+        <input type="text" value={filtrar} onChange={find} placeholder='Filtro'/>
         <ul className='listado'>
           {
             Portafolio.filter((gis)=>{

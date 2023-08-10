@@ -20,7 +20,7 @@ const Home = () => {
 
   setTimeout(()=>{
     setInicio(false)
-  },2000)
+  },5000)
   if (inicio) return <InicioPage/>
   
   return (
@@ -50,6 +50,8 @@ const Home = () => {
       </motion.div>
       <div className='TitleGIS'>
         <h1>Sistemas de información geográfica.</h1>
+        <br />
+        <h1>Desarrollo web</h1>
       </div>
       <Carrusel/>
       <GISData 

@@ -25,7 +25,7 @@ const SkillsGIS = [
     },
     {
         id:6,
-        imagen:GEE,
+        imagen:'https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png',
         Desc:"Uso de la API de python y javascript para el uso de la libreria de ee de GEE para la obtencion de datos espectrales mundiales Landsat,Sentinel 1 y 2, MODIS, ASTER datos de elevacion, Climatologicos y variables ambientales"
     },
     {
@@ -40,12 +40,12 @@ const SkillsGIS = [
     },
     {
         id:9,
-        imagen:"https://the-mhd.com/wp-content/uploads/2022/10/index.png",
+        imagen:"https://user-images.githubusercontent.com/1951843/79699889-438ce580-8260-11ea-9c79-8667834aeab2.png",
         Desc:"Manejo del software open source de procesamiento fotogametrico productos resultantes como ortofotomosaico con puntos de control, Modelo de terreno y superficie."
     },
     {
         id:10,
-        imagen:"https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal.png",
+        imagen:"https://ih1.redbubble.net/image.3523517353.9092/st,small,507x507-pad,600x600,f8f8f8.jpg",
         Desc:"Manejo en la administracion y consulta de tablas en lenguaje SQL con Postgis en el entorno de pgAdmin y QGIS como implementacion de consultas espaciales.Conexion a Geoserver y aplicaciones de mapeo libre como mapstore."
     },
     {
