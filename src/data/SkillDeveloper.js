@@ -52,8 +52,18 @@ const SkillDeveloper = [
     },
     {
         id:11,
-        imagen:'https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png',
+        imagen:'https://img2.freepng.es/20180816/wjj/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2670562.190553501534430898422.jpg',
         Desc:"Manejo del gestor de base de datos MYSQL "
+    },
+    {
+        id:12,
+        imagen:'https://images.velog.io/images/holicholicpop/post/fe3b44cf-abd8-4c16-9252-185da52bd953/strapi-cover_1fabc982ce.png',
+        Desc:'Strapi es un CMS sin encabezado de código abierto basado en Node. js para todas las necesidades de API y gestión de contenidos de los desarrolladores. Permite crear API funcionales en cuestión de minutos y desarrollar software sin la molestia de las complejidades de un CMS.'
+    },
+    {
+        id:13,
+        imagen:'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png',
+        Desc:'consulta y un tiempo de ejecución del servidor para las interfaces de programación de aplicaciones (API)'
     }
 ];
 

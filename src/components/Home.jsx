@@ -30,7 +30,7 @@ const Home = () => {
       {
         widthwindow ? 
         <div className='titulo'>
-          <h2>Soy analista y desarrollador GIS.</h2>
+          <h2>Soy analista y Front end developer.</h2> 
         </div>:
         <Title texto ="Bienvenido :)"/>
       }
@@ -51,7 +51,7 @@ const Home = () => {
       <div className='TitleGIS'>
         <h1>Sistemas de información geográfica.</h1>
         <br />
-        <h1>Desarrollo web</h1>
+        <h1>Desarrollo web MERN</h1>
       </div>
       <Carrusel/>
       <GISData 
