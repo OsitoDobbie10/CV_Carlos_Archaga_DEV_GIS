@@ -17,6 +17,7 @@ import LASTIMAGE from '../files/APP-COPECO.png';
 import reactAPP2 from '../files/REACT-APP2.png';
 import ExperienciaGIS from '../files/ExperienciaGIS.png';
 import Movie from '../files/MovieYT.png'
+import MapaExperince from '../files/MapaExperience.png'
 
 const Portafolio = [ 
 {
@@ -150,6 +151,19 @@ const Portafolio = [
         {img:'https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png'}],
     descp:"Aplicacion de filtro, busqueda de peliculas y series por genero por nombre y actores usando la API de YT movie api con mas de 300 mil datos, usando tailwind css como estilos y Vite con React",
     enlace:"https://superb-sunburst-bdc8cf.netlify.app/"
+},
+{
+    id:11,
+    proyectoweb:"Proyectos GIS Carlos Archaga",
+    title:"Mapa de Datos fundamentales descargar e interaccion de capas",
+    categoria:"Developer GIS React JS",
+    imagen:MapaExperince,
+    tecnologias:[
+        {img:LogoReact},
+        {img:ESRI},
+        {img:Experience}],
+    descp:"Aplicacion de interaccion con datos fundamentales, descarga de capas, vista de dashboards interactivos e historia de mapas creadas en React JS y boostrap",
+    enlace:"https://experience.arcgis.com/experience/346f331da6b94b5c9d957ae1a6f5346b/page/P%C3%A1gina/"
 }
 ];
 
