@@ -10,6 +10,10 @@ import Mapa7 from "../files/SDE_DATOS.PNG";
 import Mapa8 from "../files/Mapa_Equipamiento.PNG";
 import Mapa9 from "../files/GEODATABASE.jpg";
 import Mapa9_3 from "../files/Mapa_edificio1.PNG";
+import Web1 from "../data/Web1.PNG";
+import Web2 from "../data/Web2.PNG";
+import Web3 from "../data/Web3.PNG"; 
+import Web4 from "../data/Web4.PNG"; 
 const Servicios = [
     {
         id:1,
@@ -57,6 +61,22 @@ const Servicios = [
             }
         ],
         desc:"Diseño e implementación de bases de datos espacial de cualquier tipo y de cualquier rama del conocimiento, así como edición y depuración de datos existentes para su implementación. Creación de sistemas dinámicos de consulta que generen informes, reportes gráficos internos y mapas tematicos, asesoría y servicio post-implementación que describa la informacion espacial.Se generara todos los aspectos que una base de datos relacional toma para administrar la informacion, usaremos los gestores de Postgis para QGIS en un entorno open source o se usara ARCSDE con postgre SQL o SQL Server para el entorno ARCGIS."
+    },
+    {
+        id:4,
+        title:"Desarrollo de aplicaciones web responsive e interativas",
+        imagen:[
+            {id:10,
+             mapa:Web1},
+             {id:11,
+                mapa:Web2},
+            {id:12,
+                mapa:Web3},
+            {
+                id:13,
+                mapa:Web4
+            }],
+        desc:"Desarrollo de aplicaciones web en el lado del cliente usando ReactJS con Remix Run y NextJS13, consumo de APIS, enrutamiento dinamico, autentificacion de clientes, interaccion de eventos, creacion de aplicaciones web enfocadas a mapas e interaccion en lado del cliente como servidor usando librerias como leaflet, open layers y la api de javascript de ESRI, actualmente estoy estudiando desarrollo backend en el stack MERN y con Django con python. "
     }
 ]
 
