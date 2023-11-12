@@ -30,7 +30,7 @@ const Home = () => {
       {
         widthwindow ? 
         <div className='titulo'>
-          <h2>Soy analista y Front end developer.</h2> 
+          <h2>Analista GIS y Front end developer.</h2> 
         </div>:
         <Title texto ="Bienvenido :)"/>
       }

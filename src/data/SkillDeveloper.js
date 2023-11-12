@@ -1,4 +1,5 @@
 import docker from "../files/docker.png";
+import Supabase from "../files/Supabase.jpg";
 const SkillDeveloper = [
     {
         id:1,
@@ -64,6 +65,11 @@ const SkillDeveloper = [
         id:13,
         imagen:'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png',
         Desc:'consulta y un tiempo de ejecución del servidor para las interfaces de programación de aplicaciones (API)'
+    },
+    {
+        id:14,
+        imagen:Supabase,
+        Desc:"Gestión de base de datos, autenticación, almacenamiento de archivos, generación automática de APIs y actualizaciones en tiempo real, uso del entorno backend de supabase combinado con React y NextJS para construccion de aplicaciones web."
     }
 ];
 
