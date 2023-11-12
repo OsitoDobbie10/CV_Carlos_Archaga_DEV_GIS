@@ -1,6 +1,7 @@
 import docker from "../files/docker.png";
 import Supabase from "../files/Supabase.jpg";
 import Astro from "../files/Astro.png";
+import MySQL from "../files/MYSQL.jpg";
 const SkillDeveloper = [
     {
         id:1,
@@ -54,7 +55,7 @@ const SkillDeveloper = [
     },
     {
         id:11,
-        imagen:'https://img2.freepng.es/20180816/wjj/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2670562.190553501534430898422.jpg',
+        imagen:MySQL,
         Desc:"Manejo del gestor de base de datos MYSQL "
     },
     {
@@ -75,7 +76,7 @@ const SkillDeveloper = [
     {
         id:15,
         imagen:Astro,
-        Desc:"potente framework que soporta tanto la generación de sitios estáticos (SSG) como el renderizado del lado del servidor (SSR) para ayudarnos a construir sitios web rápidos y basados en contenidos, sin perder de vista la experiencia del desarrollador."
+        Desc:"Potente framework que soporta tanto la generación de sitios estáticos (SSG) como el renderizado del lado del servidor (SSR) para ayudarnos a construir sitios web rápidos y basados en contenidos, sin perder de vista la experiencia del desarrollador."
     }
 ];
 
