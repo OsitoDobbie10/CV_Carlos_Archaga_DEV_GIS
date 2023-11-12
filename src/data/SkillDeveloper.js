@@ -1,5 +1,6 @@
 import docker from "../files/docker.png";
 import Supabase from "../files/Supabase.jpg";
+import Astro from "../files/Astro.png";
 const SkillDeveloper = [
     {
         id:1,
@@ -70,6 +71,11 @@ const SkillDeveloper = [
         id:14,
         imagen:Supabase,
         Desc:"Gestión de base de datos, autenticación, almacenamiento de archivos, generación automática de APIs y actualizaciones en tiempo real, uso del entorno backend de supabase combinado con React y NextJS para construccion de aplicaciones web."
+    },
+    {
+        id:15,
+        imagen:Astro,
+        Desc:"potente framework que soporta tanto la generación de sitios estáticos (SSG) como el renderizado del lado del servidor (SSR) para ayudarnos a construir sitios web rápidos y basados en contenidos, sin perder de vista la experiencia del desarrollador."
     }
 ];
 
