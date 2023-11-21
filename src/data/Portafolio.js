@@ -16,8 +16,10 @@ import TIENDA from '../files/TIENDA.png';
 import LASTIMAGE from '../files/APP-COPECO.png';
 import reactAPP2 from '../files/REACT-APP2.png';
 import ExperienciaGIS from '../files/ExperienciaGIS.png';
-import Movie from '../files/MovieYT.png'
-import MapaExperince from '../files/MapaExperience.png'
+import Movie from '../files/MovieYT.png';
+import MapaExperince from '../files/MapaExperience.png';
+import Typescript from "../files/Typescript.png";
+import Zustand from "../files/Zustand.jpg";
 
 const Portafolio = [ 
 {
@@ -164,6 +166,18 @@ const Portafolio = [
         {img:Experience}],
     descp:"Aplicacion de interaccion con datos fundamentales, descarga de capas, vista de dashboards interactivos e historia de mapas creadas en React JS y boostrap",
     enlace:"https://experience.arcgis.com/experience/346f331da6b94b5c9d957ae1a6f5346b/page/P%C3%A1gina/"
+},
+{   id:12,
+    proyectoweb:"Proyectos GIS Carlos Archaga",
+    title:"Quizz de Javascript",
+    categoria:"Developer GIS React JS",
+    imagen:MapaExperince,
+    tecnologias:[
+        {img:LogoReact},
+        {img:Typescript},
+        {img:Zustand}],
+    descp:"Aplicacion para platicar el uso de Zustand controlador de estados globales usando typescript",
+    enlace:"https://astounding-cranachan-6b367e.netlify.app/"
 }
 ];
 

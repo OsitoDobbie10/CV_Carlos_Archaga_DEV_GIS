@@ -7,6 +7,7 @@ import {FiMenu} from "react-icons/fi";
 const Navbar = () => {
   const [opened,sertOpened] = useState(false);
   const mobile = window.innerWidth<=768? true:false;
+  console.log(mobile);
   const close = ()=>{
     sertOpened(false);
   }
