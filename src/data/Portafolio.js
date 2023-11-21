@@ -20,6 +20,7 @@ import Movie from '../files/MovieYT.png';
 import MapaExperince from '../files/MapaExperience.png';
 import Typescript from "../files/Typescript.png";
 import Zustand from "../files/Zustand.jpg";
+import JSQuizz from "../data/Web6.PNG";
 
 const Portafolio = [ 
 {
@@ -171,7 +172,7 @@ const Portafolio = [
     proyectoweb:"Proyectos GIS Carlos Archaga",
     title:"Quizz de Javascript",
     categoria:"Developer GIS React JS",
-    imagen:MapaExperince,
+    imagen:JSQuizz,
     tecnologias:[
         {img:LogoReact},
         {img:Typescript},
