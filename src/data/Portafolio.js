@@ -21,6 +21,10 @@ import MapaExperince from '../files/MapaExperience.png';
 import Typescript from "../files/Typescript.png";
 import Zustand from "../files/Zustand.jpg";
 import JSQuizz from "../data/Web6.PNG";
+import WebGIS from "../data/Web7.PNG";
+import Supabase from "../files/SupabaseLogo.jpg";
+import BDPos from "../files/BDPostgres.png";
+import Query from "../files/Query.png"
 
 const Portafolio = [ 
 {
@@ -179,6 +183,21 @@ const Portafolio = [
         {img:Zustand}],
     descp:"Aplicacion para platicar el uso de Zustand controlador de estados globales usando typescript",
     enlace:"https://astounding-cranachan-6b367e.netlify.app/"
+},
+{
+    id:13,
+    proyectoweb:"Proyectos GIS Carlos Archaga",
+    title:"Aplicacion de administracion de datos GIS cf ",
+    categoria:"Developer GIS React JS",
+    imagen:WebGIS,
+    tecnologias:[
+        {img:LogoReact},
+        {img:Query},
+        {img:Zustand},
+        {img:Supabase},
+        {img:BDPos}],
+    descp:"Aplicacion FullStack usando como backend Supabase para login e indetificacion de usuarios,Api rest y base de datos usando postgres de lado del cliente se usar React, ReactQuery y Zunstand para controlador de estados globales",
+    enlace:"https://willowy-ganache-f32aef.netlify.app/"
 }
 ];
 
