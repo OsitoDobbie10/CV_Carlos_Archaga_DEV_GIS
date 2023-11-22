@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.24634288.css",
-    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.fb4a8241.js",
+    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.0f106fad.js",
     "static/media/Mapa_Basico.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Basico.0d54e00fd7d1f331a6cd.png",
     "static/media/MapaExperience.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/MapaExperience.4f0be99db8032cfbf150.png",
     "static/media/Web4.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Web4.e9eed994bb6656ce6dbe.PNG",
     "static/media/MovieYT.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/MovieYT.1daf2b6011124deb999e.png",
     "static/media/Tierra-inicio.mp4": "/CV_Carlos_Archaga_DEV_GIS/static/media/Tierra-inicio.c6043d6c61ec245407f5.mp4",
+    "static/media/Web7.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Web7.839706847334016ca619.PNG",
     "static/media/Maoa_cambio_uso_suelo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Maoa_cambio_uso_suelo.4c5f87d131ff1d9a9ef0.png",
     "static/media/Mapa_TICO.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_TICO.9aeed2aaabd33f6982f8.PNG",
     "static/media/2017_TM.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/2017_TM.b31c2a237e2890680d30.png",
@@ -34,7 +35,9 @@
     "static/media/APP-COPECO.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/APP-COPECO.199a06634e49db6b3f06.png",
     "static/media/GEODATABASE.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/GEODATABASE.8de588939ecde3b21417.jpg",
     "static/media/Python2.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Python2.ecfb4e6faf26def45e95.png",
+    "static/media/Query.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Query.c86a9bd60f7da9e75207.png",
     "static/media/Zustand.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/Zustand.f448c151246d1627cb14.jpg",
+    "static/media/BDPostgres.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/BDPostgres.4a8c66c90ba3b5e27f7c.png",
     "static/media/REACT-APP2.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/REACT-APP2.a929fe8d8fe85f8db3b6.png",
     "static/media/Web2.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Web2.e823c4ebe3a22ff6de2b.PNG",
     "static/media/Geoturismo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Geoturismo.938c17f24e6d4362b6a0.png",
@@ -51,16 +54,17 @@
     "static/media/Typescript.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Typescript.cf0efaf73c3cc9d45263.png",
     "static/media/Exoerience_Logo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Exoerience_Logo.8f74db307a18d8081c9c.png",
     "static/media/Supabase.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/Supabase.447119615ef7af8d70d7.jpg",
+    "static/media/SupabaseLogo.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/SupabaseLogo.447119615ef7af8d70d7.jpg",
     "static/media/Dashboard_Logo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Dashboard_Logo.722143bd3ab94220fdd4.png",
     "static/media/CSS_Logo.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/CSS_Logo.cc329bcb6af0353fd83c.png",
     "static/media/MYSQL.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/MYSQL.1ab4632927c445e3c1e6.jpg",
     "static/media/docker.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/docker.e0ba9d2386737b9f87c6.png",
     "index.html": "/CV_Carlos_Archaga_DEV_GIS/index.html",
     "main.24634288.css.map": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.24634288.css.map",
-    "main.fb4a8241.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.fb4a8241.js.map"
+    "main.0f106fad.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.0f106fad.js.map"
   },
   "entrypoints": [
     "static/css/main.24634288.css",
-    "static/js/main.fb4a8241.js"
+    "static/js/main.0f106fad.js"
   ]
 }
