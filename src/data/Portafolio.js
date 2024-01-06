@@ -187,7 +187,7 @@ const Portafolio = [
 {
     id:13,
     proyectoweb:"Proyectos GIS Carlos Archaga",
-    title:"Aplicacion de administracion de datos GIS cf ",
+    title:"Aplicacion de administracion de datos GIS", 
     categoria:"Developer GIS React JS",
     imagen:WebGIS,
     tecnologias:[
