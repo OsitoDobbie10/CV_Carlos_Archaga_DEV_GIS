@@ -25,6 +25,7 @@ import WebGIS from "../data/Web7.PNG";
 import Supabase from "../files/SupabaseLogo.jpg";
 import BDPos from "../files/BDPostgres.png";
 import Query from "../files/Query.png"
+import APPLOGO from "../files/TiendaAPPDD.PNG"
 
 const Portafolio = [ 
 {
@@ -187,9 +188,9 @@ const Portafolio = [
 {
     id:13,
     proyectoweb:"Proyectos GIS Carlos Archaga",
-    title:"Aplicacion de administracion de datos GIS", 
+    title:"Aplicacion de compra de productos para negocios locales", 
     categoria:"Developer GIS React JS",
-    imagen:WebGIS,
+    imagen:APPLOGO,
     tecnologias:[
         {img:LogoReact},
         {img:Query},
@@ -197,7 +198,7 @@ const Portafolio = [
         {img:Supabase},
         {img:BDPos}],
     descp:"Aplicacion FullStack usando como backend Supabase para login e indetificacion de usuarios,Api rest y base de datos usando postgres de lado del cliente se usar React, ReactQuery y Zunstand para controlador de estados globales",
-    enlace:"https://willowy-ganache-f32aef.netlify.app/"
+    enlace:"https://main--tiendavirtualcompras.netlify.app/"
 }
 ];
 
