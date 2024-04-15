@@ -171,7 +171,7 @@ const Portafolio = [
         {img:ESRI},
         {img:Experience}],
     descp:"Aplicacion de interaccion con datos fundamentales, descarga de capas, vista de dashboards interactivos e historia de mapas creadas en React JS y boostrap",
-    enlace:"https://experience.arcgis.com/experience/346f331da6b94b5c9d957ae1a6f5346b/page/P%C3%A1gina/"
+    enlace:"https://experience.arcgis.com/experience/54c9883f46864012a700fcb1661f2a52"
 },
 {   id:12,
     proyectoweb:"Proyectos GIS Carlos Archaga",
