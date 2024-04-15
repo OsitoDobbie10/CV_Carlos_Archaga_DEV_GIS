@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.24634288.css",
-    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.8f34e590.js",
+    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.71c6811c.js",
     "static/media/Mapa_Basico.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Basico.0d54e00fd7d1f331a6cd.png",
     "static/media/MapaExperience.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/MapaExperience.4f0be99db8032cfbf150.png",
     "static/media/Web4.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Web4.e9eed994bb6656ce6dbe.PNG",
@@ -23,6 +23,7 @@
     "static/media/Mi_FOTO_PAPU.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mi_FOTO_PAPU.37e835e2acbf0036516a.png",
     "static/media/React-JS-Mapas.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/React-JS-Mapas.75546e127efe64cd7cfa.png",
     "static/media/GaleriaWEBGIS.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/GaleriaWEBGIS.cd69529c201a3b8b4a88.png",
+    "static/media/TiendaAPPDD.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/TiendaAPPDD.a6778b6c8360778d7cca.PNG",
     "static/media/ROMA_IN_7.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/ROMA_IN_7.51940f689dd4cc589cf5.jpg",
     "static/media/ROMAIN.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/ROMAIN.debef23d804555d21662.PNG",
     "static/media/Yo papusin.jpg": "/CV_Carlos_Archaga_DEV_GIS/static/media/Yo papusin.5ba2b6147c41d259b34f.jpg",
@@ -61,10 +62,10 @@
     "static/media/docker.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/docker.e0ba9d2386737b9f87c6.png",
     "index.html": "/CV_Carlos_Archaga_DEV_GIS/index.html",
     "main.24634288.css.map": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.24634288.css.map",
-    "main.8f34e590.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.8f34e590.js.map"
+    "main.71c6811c.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.71c6811c.js.map"
   },
   "entrypoints": [
     "static/css/main.24634288.css",
-    "static/js/main.8f34e590.js"
+    "static/js/main.71c6811c.js"
   ]
 }
