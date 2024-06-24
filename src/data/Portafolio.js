@@ -26,6 +26,7 @@ import Supabase from "../files/SupabaseLogo.jpg";
 import BDPos from "../files/BDPostgres.png";
 import Query from "../files/Query.png"
 import APPLOGO from "../files/TiendaAPPDD.PNG"
+import IDESGC from "../data/Web8.PNG";
 
 const Portafolio = [ 
 {
@@ -199,6 +200,22 @@ const Portafolio = [
         {img:BDPos}],
     descp:"Aplicacion FullStack usando como backend Supabase para login e indetificacion de usuarios,Api rest y base de datos usando postgres de lado del cliente se usar React, ReactQuery y Zunstand para controlador de estados globales",
     enlace:"https://main--tiendavirtualcompras.netlify.app/"
+},
+{
+    id:14,
+    proyectoweb:"Proyectos GIS Carlos Archaga",
+    title:"Aplicacion demo de IDE web para mapas", 
+    categoria:"Developer GIS React JS",
+    imagen:IDESGC,
+    tecnologias:[
+        {img:LogoReact},
+        {img:Query},
+        {img:Zustand},
+        {img:Supabase},
+        {img:ESRI}],
+    descp:"Aplicacion FuulStack usando como backend Supabase para login e indetificacion de usuarios,Api rest y base de datos usando postgres de lado del cliente se usar React, ReactQuery y Zunstand para controlador de estados globales, mapas web con el cliente de ESRI ",
+    enlace:"https://web-sig-demo.netlify.app/"
+
 }
 ];
 
