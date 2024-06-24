@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.24634288.css",
-    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.5233baca.js",
+    "main.js": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.3008a614.js",
     "static/media/Mapa_Basico.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Basico.0d54e00fd7d1f331a6cd.png",
     "static/media/MapaExperience.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/MapaExperience.4f0be99db8032cfbf150.png",
     "static/media/Web4.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Web4.e9eed994bb6656ce6dbe.PNG",
@@ -14,6 +14,7 @@
     "static/media/Mapa_Equipamiento.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Equipamiento.aa1dbe0ddbdf1808c7fc.PNG",
     "static/media/Mapa_edificio1.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_edificio1.da967bf93dd4d398fa1f.PNG",
     "static/media/Web3.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Web3.2296795a1ca79b3b54ef.PNG",
+    "static/media/Web8.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Web8.fda5555bbf601b54cabc.PNG",
     "static/media/Mapa_Areas_verdes.PNG": "/CV_Carlos_Archaga_DEV_GIS/static/media/Mapa_Areas_verdes.fea5c7bc3febdcafcdad.PNG",
     "static/media/PP_2014.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/PP_2014.a77468b2e281fd42b2e7.png",
     "static/media/DEMIWEB.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/DEMIWEB.76a6dac5211345922d68.png",
@@ -62,10 +63,10 @@
     "static/media/docker.png": "/CV_Carlos_Archaga_DEV_GIS/static/media/docker.e0ba9d2386737b9f87c6.png",
     "index.html": "/CV_Carlos_Archaga_DEV_GIS/index.html",
     "main.24634288.css.map": "/CV_Carlos_Archaga_DEV_GIS/static/css/main.24634288.css.map",
-    "main.5233baca.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.5233baca.js.map"
+    "main.3008a614.js.map": "/CV_Carlos_Archaga_DEV_GIS/static/js/main.3008a614.js.map"
   },
   "entrypoints": [
     "static/css/main.24634288.css",
-    "static/js/main.5233baca.js"
+    "static/js/main.3008a614.js"
   ]
 }
